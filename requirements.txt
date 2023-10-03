@@ -14,3 +14,4 @@ python-lsp-black==1.2.1
 sentencepiece==0.1.99
 pip==23.2.1
 watchdog==3.0.0
+sqlite3==3.35.0
