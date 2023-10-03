@@ -1,0 +1,16 @@
+Flask==3.0.0
+langchain==0.0.306
+openai==0.28.1
+tiktoken==0.5.1
+chromadb==0.4.13
+unstructured==0.10.18
+markdown==3.4.4
+streamlit==1.27.1
+GitPython==3.1.37
+pyqt5==5.15
+pyqtwebengine==5.15
+black==22.3.0
+python-lsp-black==1.2.1
+sentencepiece==0.1.99
+pip==23.2.1
+watchdog==3.0.0
