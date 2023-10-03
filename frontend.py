@@ -5,7 +5,7 @@ import streamlit as st
 # Function to make an API call and fetch JSON data
 def fetch_data(data):
     # Define the API URL
-    api_url = "http://localhost:5000/api/question"  # Replace with the actual API URL
+    api_url = "http://backend.com:5000/api/question"  # Replace with the actual API URL
 
     try:
         response = requests.post(api_url, json = data)
